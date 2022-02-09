@@ -18,6 +18,6 @@ Belajar Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Prog
   * Belajar Modifikasi Aplikasi Perangkat Lunak
   * Belajar Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
 <br>
-Belajar Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+Belajar Kelas Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)  
   - Belajar Gerbang Logika
   - Belajar Pengenalan Dasar Computational Thinking
